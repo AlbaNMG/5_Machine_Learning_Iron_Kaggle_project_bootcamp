@@ -4,7 +4,7 @@
 
 ## Overview
 
-The dataset can be found here.
+The dataset will be provided.
 
 The objective is to predict the revenue of shops. Each row of our data contains the following information:
 
