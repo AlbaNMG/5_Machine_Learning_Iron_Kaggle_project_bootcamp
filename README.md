@@ -1,5 +1,3 @@
-# Machine_Learning_Iron_Kaggle_project_bootcamp
-
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Project: Machine Learning - Iron Kaggle
